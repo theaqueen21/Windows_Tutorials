@@ -19,7 +19,7 @@ Win + X
 
 ![5](https://user-images.githubusercontent.com/94680549/228820806-ba6b9ad3-f8eb-48de-bbe5-f97668b6c7e9.jpg)
 
-4. Turn On Allow The Computer To Turn Off This Device To Save Power Then Turn On Allow This Device To Wake The Computer And Turn On Only Allow A Magic Packet To Wake The Computer 
+4. Turn On Allow The Computer To Turn Off This Device To Save Power, Then Turn On Allow This Device To Wake The Computer, And Turn On Only Allow A Magic Packet To Wake The Computer 
 
 ![5](https://user-images.githubusercontent.com/94680549/228821317-6aef7cff-17f1-4fd3-88a3-b27d186ca99b.png)
 
