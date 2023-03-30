@@ -2,6 +2,42 @@
 
 1.Open Device Manager
 >Press The Windows Key And X  
+
 ```
 Win+X
 ```
+
+![1](https://user-images.githubusercontent.com/94680549/228818684-46b49e43-9b0d-4e0d-ad1f-d8bddb2a2332.png)
+
+2. Click On The Drop Down Arrow Next To Network Adapters Then Right Click On Your Ethernet Adapter And Select Properties
+
+![2](https://user-images.githubusercontent.com/94680549/228819339-9df08fa1-5d46-4f00-8840-a9e0da452830.png)
+
+![3](https://user-images.githubusercontent.com/94680549/228819756-346fdacd-5202-4e5c-bd2e-4c911b11c3a5.jpg)
+
+3. In The Properties Go To Power Management
+
+![5](https://user-images.githubusercontent.com/94680549/228820806-ba6b9ad3-f8eb-48de-bbe5-f97668b6c7e9.jpg)
+
+4. Turn On Allow The Computer To Turn Off This Device To Save Power Then Turn On Allow This Device To Wake The Computer And Turn On Only Allow A Magic Packet To Wake The Computer 
+
+![5](https://user-images.githubusercontent.com/94680549/228821317-6aef7cff-17f1-4fd3-88a3-b27d186ca99b.png)
+
+5. Turn Off Allow The Computer To Turn Off This Device To Save Power
+
+![4](https://user-images.githubusercontent.com/94680549/228821464-da182c3f-51a0-497a-ae58-40163f942692.png)
+
+6. In The Properties Go To Advanced And Enable Wake On Magic Packet 
+
+![6](https://user-images.githubusercontent.com/94680549/228821826-20c468b5-ceb2-4581-9de6-7a417c40db3c.jpg)
+
+7. In Advanced Enable Wake On Pattern Match
+
+![7](https://user-images.githubusercontent.com/94680549/228822081-64ea2e3c-019a-4450-9bc1-6c12c774c1c6.jpg)
+
+8. Set The Value Of WOL & Shutdown Link Speed To 10 Mbps First
+
+![8](https://user-images.githubusercontent.com/94680549/228822931-8b589697-e118-4f32-a57a-d4e08d04afb4.jpg)
+
+
+
