@@ -4,7 +4,7 @@
 >Press The Windows Key And X  
 
 ```
-Win+X
+Win + X
 ```
 
 ![1](https://user-images.githubusercontent.com/94680549/228818684-46b49e43-9b0d-4e0d-ad1f-d8bddb2a2332.png)
@@ -44,7 +44,7 @@ Win+X
 1. Open Power Options
 >Press The Windows Key And R
 ```
-Win+R
+Win + R
 ```
 >Type
 ```
