@@ -1,6 +1,6 @@
 # Enable WakeOnLan From Device Manager
 
-1.Open Device Manager
+1. Open Device Manager
 >Press The Windows Key And X  
 
 ```
@@ -38,6 +38,32 @@ Win+X
 8. Set The Value Of WOL & Shutdown Link Speed To 10 Mbps First
 
 ![8](https://user-images.githubusercontent.com/94680549/228822931-8b589697-e118-4f32-a57a-d4e08d04afb4.jpg)
+
+# Disable Fast Start-Up
+
+1. Open Power Options
+>Press The Windows Key And R
+```
+Win+R
+```
+>Type
+```
+powercfg.cpl
+```
+
+![anydesk00004](https://user-images.githubusercontent.com/94680549/228832922-641fc970-47be-4d8f-a538-ed0f37f43c20.png)
+
+2. Click On Choose What The Power Buttons Do
+
+![anydesk00001](https://user-images.githubusercontent.com/94680549/228832987-a7bcff9c-3517-4d77-8ec6-fd4281b6e7ae.png)
+
+3. Click On Change Settings That Are Currently Unavailable
+
+![anydesk00000](https://user-images.githubusercontent.com/94680549/228833300-58bf51f8-374c-4986-b2be-7e38783e756f.png)
+
+4. Disable Turn On Fast Start-Up And Save Changes 
+
+![anydesk00003](https://user-images.githubusercontent.com/94680549/228833579-834a006a-0b45-4723-9b96-1f3b2c198843.png)
 
 
 
