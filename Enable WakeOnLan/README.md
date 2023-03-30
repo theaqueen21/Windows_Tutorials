@@ -25,7 +25,7 @@ Win+X
 
 5. Turn Off Allow The Computer To Turn Off This Device To Save Power
 
-![4](https://user-images.githubusercontent.com/94680549/228821464-da182c3f-51a0-497a-ae58-40163f942692.png)
+![4](https://user-images.githubusercontent.com/94680549/228833972-a863a60d-cea1-4738-862a-acdfca187927.png)
 
 6. In The Properties Go To Advanced And Enable Wake On Magic Packet 
 
