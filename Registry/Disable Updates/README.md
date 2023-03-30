@@ -2,11 +2,11 @@
 
 1.Open The Registry(regedit.exe)
 
-Press The Windows Key And R
+>Press The Windows Key And R
 ```
 Win+R
 ```
-Type regedit.exe
+>Type regedit.exe
 ```
 regedit.exe
 ```
