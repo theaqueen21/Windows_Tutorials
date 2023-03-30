@@ -49,3 +49,5 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\
 ![11](https://user-images.githubusercontent.com/94680549/228799291-9aaab0f1-5370-415d-ae52-7cd925e1a052.png)
 
 ![12](https://user-images.githubusercontent.com/94680549/228799336-80060a0c-38f4-45c5-883d-bb8c9c1d50ae.png)
+
+Note: This Method Only Disables Windows Feature And Cumulative Updates And There Still Will Be Security Updates And Windows Defender Intelligence Updates
