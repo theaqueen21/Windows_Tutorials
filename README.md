@@ -1,5 +1,5 @@
 # Windows_Tutorials
-1.[Disable-Updates]
+1. [Disable-Updates]
 
 
 
