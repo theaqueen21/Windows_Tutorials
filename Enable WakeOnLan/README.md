@@ -13,7 +13,7 @@ Win+X
 
 ![2](https://user-images.githubusercontent.com/94680549/228819339-9df08fa1-5d46-4f00-8840-a9e0da452830.png)
 
-![3](https://user-images.githubusercontent.com/94680549/228819756-346fdacd-5202-4e5c-bd2e-4c911b11c3a5.jpg)
+![3](https://user-images.githubusercontent.com/94680549/228823264-e2ae2191-c8f4-45df-82ed-1348c1889da3.jpg)
 
 3. In The Properties Go To Power Management
 
