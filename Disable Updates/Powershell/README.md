@@ -23,3 +23,5 @@ reg add HKLM\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate /f /v TargetRelea
 >Replace 1904 As Your Preference(With Either Your Current Windows Version Or The Version You Would Like To Update To)
 
 ![4](https://user-images.githubusercontent.com/94680549/228804088-49ab5c10-dad0-4d85-b97c-84084b5abf8e.png)
+
+Note: This Method Only Disables Windows Feature And Cumulative Updates And There Still Will Be Security Updates And Windows Defender Intelligence Updates
