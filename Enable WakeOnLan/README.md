@@ -1,4 +1,4 @@
-# Enable WakeOnLan From Device Manager
+# 01 Enable WakeOnLan From Device Manager
 
 1. Open Device Manager
 >Press The Windows Key And X  
@@ -39,7 +39,7 @@ Win+X
 
 ![8](https://user-images.githubusercontent.com/94680549/228822931-8b589697-e118-4f32-a57a-d4e08d04afb4.jpg)
 
-# Disable Fast Start-Up
+# 02 Disable Fast Start-Up
 
 1. Open Power Options
 >Press The Windows Key And R
