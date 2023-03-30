@@ -1,3 +1,12 @@
+# WakeOnLan Is An Ethernet Networking Standard That Allows A Computer To Be Turned On By A Network Message Called A Magic Packet
+
+To Enable WakeOnLan 
+
+First We Need To Enable It From Device Manager
+
+Second We Need To Disable Fast Start-Up 
+
+
 # 01 Enable WakeOnLan From Device Manager
 
 1. Open Device Manager
