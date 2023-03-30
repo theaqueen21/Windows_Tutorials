@@ -46,7 +46,10 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
 
 ![10](https://user-images.githubusercontent.com/94680549/228791418-9817decc-c4da-4556-9949-d535faba9870.png)
 
-![11](https://user-images.githubusercontent.com/94680549/228791662-a62bc74f-e374-4f90-9a47-aa18ed08ed67.png)
+![11](https://user-images.githubusercontent.com/94680549/228792750-e5ed0972-0bde-4753-b08e-d1f295d749bc.png)
+
+![12](https://user-images.githubusercontent.com/94680549/228793189-89403d74-485c-4e78-9295-1a839b00ec59.png)
+
 
 
 
