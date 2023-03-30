@@ -2,9 +2,9 @@
 
 To Enable WakeOnLan 
 
-First We Need To Enable It From Device Manager
+>First We Need To Enable It From Device Manager
 
-Second We Need To Disable Fast Start-Up 
+>Second We Need To Disable Fast Start-Up 
 
 
 # 01 Enable WakeOnLan From Device Manager
