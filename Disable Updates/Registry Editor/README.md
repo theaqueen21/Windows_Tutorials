@@ -22,7 +22,7 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\
 
 ![3](https://user-images.githubusercontent.com/94680549/228797668-79bf334a-30c9-4b85-90a8-ff4e2159b5f1.png)
 
-3. Right Click On The Key Windows And Create A New Key Called WindowsUpdate
+3. Right Click On The Windows Folder And Create A New Key Called WindowsUpdate
 
 ![4](https://user-images.githubusercontent.com/94680549/228797850-99ea94b2-5d59-45e0-83cd-c213b49a02e8.png)
 
