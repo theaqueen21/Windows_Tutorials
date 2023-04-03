@@ -1,8 +1,8 @@
 # Wake-on-LAN (WOL) is a network feature that allows a computer to be turned on or awakened from a low power state (S3) using a special network message called a WOL packet. When a computer is put into S3 state, the system is suspended and the network adapter is powered down into a D3 Hot state. WOL can be used to remotely wake up a computer from a sleeping state, without physically pressing the power button.
 
-It's worth noting that Windows 10 does not support WOL in S4 or S5 states. S4 is also known as Hybrid Shutdown or Fast Startup, which is a default setting in Windows 10 that allows for faster boot times by saving the kernel session to the disk. When a user chooses to shut down their computer, Windows 10 will save the kernel session to disk and then shut down, putting the computer in S4 state. In this state, the network adapter is not powered, and WOL is not possible. S5 is a classic shutdown state, similar to Windows 7.
+# It's worth noting that Windows 10 does not support WOL in S4 or S5 states. S4 is also known as Hybrid Shutdown or Fast Startup, which is a default setting in Windows 10 that allows for faster boot times by saving the kernel session to the disk. When a user chooses to shut down their computer, Windows 10 will save the kernel session to disk and then shut down, putting the computer in S4 state. In this state, the network adapter is not powered, and WOL is not possible. S5 is a classic shutdown state, similar to Windows 7.
 
-However, it's possible that the firmware and device may support WOL in S4 or S5, and in that case, Windows won't be involved in the process.
+# However, it's possible that the firmware and device may support WOL in S4 or S5, and in that case, Windows won't be involved in the process.
 
 To Enable WakeOnLan 
 
