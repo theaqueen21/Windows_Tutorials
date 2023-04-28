@@ -26,7 +26,7 @@ wmic diskdrive get status,model
 ```
 wmic /namespace:\\root\wmi path MSStorageDriver_FailurePredictStatus
 ```
->If PredictFailure Reads False, Then Drive Is Working Properly And Not Going To Have Any Issues
+>If PredictFailure Reads False, Then Drive Is Working Properly And Is Not Going To Have Any Issues
 
 ![66](https://user-images.githubusercontent.com/94680549/235117765-907d6b55-58a6-4d63-83bb-72085916c264.jpg)
 
