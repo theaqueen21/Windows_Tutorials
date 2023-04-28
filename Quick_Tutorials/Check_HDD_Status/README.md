@@ -17,7 +17,7 @@ wmic diskdrive get status,model
 ```
 >If Status Reads "Bad", "Unknown", Or "Caution" Hardware Failure Could Be Soon
 
-![55](https://user-images.githubusercontent.com/94680549/235116216-e396ceb8-885a-4028-88b5-41f99e3f0a70.jpg)
+![55 (2)](https://user-images.githubusercontent.com/94680549/235118384-0ba8a899-109d-4c9f-b9f0-ade6f6db3df2.jpg)
 
 >Determining Drive Predictive Failure
 
@@ -26,7 +26,7 @@ wmic diskdrive get status,model
 ```
 wmic /namespace:\\root\wmi path MSStorageDriver_FailurePredictStatus
 ```
->If PredicFailure Reads False, Then Drive Is Working Properly And Not Going To Have Any Issues
+>If PredictFailure Reads False, Then Drive Is Working Properly And Not Going To Have Any Issues
 
 ![66](https://user-images.githubusercontent.com/94680549/235117765-907d6b55-58a6-4d63-83bb-72085916c264.jpg)
 
