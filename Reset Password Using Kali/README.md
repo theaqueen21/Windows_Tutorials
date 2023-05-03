@@ -37,15 +37,15 @@
 
 ![8](https://user-images.githubusercontent.com/94680549/235921728-4bb08393-f32d-4585-8f0c-a6826de1f035.jpg)
 
-![9](https://user-images.githubusercontent.com/94680549/235922037-da00c4a3-1bc8-4136-aae7-2a95813238e1.jpg)
+![9](https://user-images.githubusercontent.com/94680549/235926291-d8ff2064-5635-40d2-abef-88528aed7f00.jpg)
 
-![10](https://user-images.githubusercontent.com/94680549/235921981-f8779044-1d0b-40b0-b76b-39a9a7576f98.jpg)
+![10](https://user-images.githubusercontent.com/94680549/235926324-f4b7ae46-6fa4-41f2-8536-70ffb0f2374d.jpg)
 
-![11](https://user-images.githubusercontent.com/94680549/235922061-2f32b176-9494-4032-a57b-64ea9fb414c1.jpg)
+![11](https://user-images.githubusercontent.com/94680549/235926384-f6d0b037-d8bc-4674-8528-1b3eb48947d1.jpg)
 
 2. Open The Terminal In The Directory
 
-![12](https://user-images.githubusercontent.com/94680549/235922177-9364d57d-080a-4d6d-a416-ce354132f854.jpg)
+![12](https://user-images.githubusercontent.com/94680549/235926438-74776b78-65e0-4599-9e9a-0d36e3bd52a3.jpg)
 
 3. Run The Command Below To List All The Users In The SAM File
 
