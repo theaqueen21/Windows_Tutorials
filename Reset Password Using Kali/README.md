@@ -57,7 +57,7 @@ chntpw -l SAM
 
 ![144](https://user-images.githubusercontent.com/94680549/235923118-6e13e2fd-1292-44b7-8e28-9686dcc1562c.jpg)
 
-4. Run The Commands Below To Reset The Preferred User Account
+4. Run The Commands Below To Unlock The Preferred User Account
 
 ```
 chntpw -u [User] SAM
