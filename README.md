@@ -13,6 +13,6 @@
 
 [Disable-Updates]: https://github.com/theaqueen21/Windows_Tutorials/tree/main/Long_Tutorials/Disable%20Updates
 [Wake-On-Lan]: https://github.com/theaqueen21/Windows_Tutorials/tree/main/Long_Tutorials/Enable%20WakeOnLan
-[Reset-Windows-Password]: https://github.com/theaqueen21/Windows_Tutorials/tree/main/Long_Tutorials/Reset_Password_Using_Kali_Linux
+[Reset-Windows-Password-Using-Kali-Linux]: https://github.com/theaqueen21/Windows_Tutorials/tree/main/Long_Tutorials/Reset_Password_Using_Kali_Linux
 [Check_SSD_Speed]: https://github.com/theaqueen21/Windows_Tutorials/tree/main/Quick_Tutorials/Check_SSD_Speed
 [Check_HDD_Status]: https://github.com/theaqueen21/Windows_Tutorials/blob/main/Quick_Tutorials/Check_HDD_Status
