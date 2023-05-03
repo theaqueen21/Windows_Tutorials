@@ -52,6 +52,7 @@
 ```
 chntpw -l SAM
 ```
+
 ![13](https://user-images.githubusercontent.com/94680549/235923135-994e2fae-2df5-405a-8a27-f512720489b6.jpg)
 
 ![144](https://user-images.githubusercontent.com/94680549/235923118-6e13e2fd-1292-44b7-8e28-9686dcc1562c.jpg)
