@@ -1,6 +1,7 @@
 # Can't Login To Windows ? Reset The Password In Few Minutes
 
 > Note: This Method Will Only Work On Local Windows Accounts
+
 > Note: You Will Require A USB Drive And A Second Device For This Method
 
 # 1 Download Kali Linux And Create A Bootable USB Drive
