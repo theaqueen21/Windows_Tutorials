@@ -57,6 +57,7 @@ chntpw -l SAM
 ```
 
 > Note: The SAM File Is Where Windows Stores The User Account Information, Including Password Hashes.
+> We Are Using The Chntpw Linux Utility To Simply Modify This File.
 
 ![13](https://user-images.githubusercontent.com/94680549/235923135-994e2fae-2df5-405a-8a27-f512720489b6.jpg)
 
