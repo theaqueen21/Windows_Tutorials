@@ -1,4 +1,6 @@
 # Can't Login To Windows ? Reset The Password In Few Minutes
+
+> Note: This Method Will Only Work On Local Windows Accounts
 > Note: You Will Require A USB Drive And A Second Device For This Method
 
 # 1 Download Kali Linux And Create A Bootable USB Drive
@@ -52,6 +54,8 @@
 ```
 chntpw -l SAM
 ```
+
+> Note: The SAM File Is Where Windows Stores The User Account Information, Including Password Hashes.
 
 ![13](https://user-images.githubusercontent.com/94680549/235923135-994e2fae-2df5-405a-8a27-f512720489b6.jpg)
 
