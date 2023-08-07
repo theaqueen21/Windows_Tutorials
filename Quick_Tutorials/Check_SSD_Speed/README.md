@@ -1,5 +1,7 @@
 # Check Your SSD's Speed Using CMD
 
+# [Youtube Video]
+
 > Note: The Results Are Different From The SSD's Advertised Speed And Reflect The SSD's Actual Performance Under Specific Workloads, Taking Into Account Various Factors Such As File Size, Access Patterns, and Caching.
 
 # Steps:
@@ -23,3 +25,4 @@ Results
 ![44](https://user-images.githubusercontent.com/94680549/234486400-8bd9d0f2-7e2f-47fd-b7d7-9d69920a7226.jpg)
 
 
+[Youtube Video]: https://youtu.be/wCS587NC8HU
